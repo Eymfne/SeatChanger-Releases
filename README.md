@@ -1,2 +1,11 @@
-# SeatChanger-Releases
-SeatChanger Windows application release and update channel
+# SeatChanger
+
+Windows 교실 자리 바꾸기 앱의 공식 배포 채널입니다.
+
+[최신 설치 파일 받기](https://github.com/Eymfne/SeatChanger-Releases/releases/latest/download/SeatChangerSetup.exe)
+
+학생 이름, 고정 자리, 인접·비인접 및 행·열 범위 규칙을 설정하고 무작위로 자리를 배치합니다. 번호순 초기 배치 복원, 값 숨기기, 비율 확대·축소를 지원합니다.
+
+2.0.0부터 새 버전 자동 확인 기능을 지원합니다. 앱에서 업데이트 설치를 누르면 설치 파일을 내려받고 무결성 검사를 거쳐 업데이트합니다. 저장된 교실 설정은 유지됩니다.
+
+1.x 사용자는 2.0.0 이상을 한 번 직접 설치해야 합니다. 이 저장소에는 프로그램 배포 파일과 업데이트 정보만 게시됩니다.
